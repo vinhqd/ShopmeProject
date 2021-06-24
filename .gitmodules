@@ -1,0 +1,6 @@
+[submodule "ShopmeCommon"]
+	path = ShopmeCommon
+	url = https://github.com/vinhqd/ShopmeCommon
+[submodule "ShopmeWebParent"]
+	path = ShopmeWebParent
+	url = https://github.com/vinhqd/ShopmeWebParent
